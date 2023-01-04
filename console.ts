@@ -1,4 +1,4 @@
-import * as readline from 'node:readline';
+import readline from 'readline';
 
 export function print(str: string): void {
 	console.log(str);
